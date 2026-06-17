@@ -1,5 +1,4 @@
-# 📊 CustomerPulse
-### Customer Analytics Dashboard | Power BI
+# 📊 Customer Analytics Dashboard | Power BI
 
 <div align="center">
 
@@ -12,8 +11,9 @@
 ---
 
 <p align="center">
- <img width="1325" height="741" alt="image" src="https://github.com/user-attachments/assets/e4bcb471-3013-4bb6-8e08-c481681c6799" />
 <img width="1327" height="741" alt="image" src="https://github.com/user-attachments/assets/96651ae0-819e-4193-a019-33cc06bf0568" />
+ <img width="1318" height="741" alt="image" src="https://github.com/user-attachments/assets/d2c0d385-f57c-4151-a042-56c7583e93ea" />
+
 </p>
 
 ---
