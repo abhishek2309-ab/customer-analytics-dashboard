@@ -1,4 +1,4 @@
-                                       # 📊 Customer Analytics Dashboard | Power BI
+# 📊 Customer Analytics Dashboard | Power BI
 
 <div align="center">
 
